@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
+// this is my change
+
 func main() {
 	poodle := Dog{"Poodle", 10, "Woof!"}
 	fmt.Println(poodle)
